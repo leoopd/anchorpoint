@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22f304acaa807237",
+        "id": "a1a10ecbc8a4ce38",
         "type": "tabs",
         "children": [
           {
-            "id": "93abf4e4d75cb47c",
+            "id": "d233a86822d63b1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "005639a2e3bb131e",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,31 +136,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "affca0bb8e4611bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93abf4e4d75cb47c",
+  "active": "d233a86822d63b1c",
   "lastOpenFiles": [
-    "README.md"
+    "Architecture/Initial Design.md",
+    "Diagrams/Untitled Diagram.svg",
+    "Architecture",
+    "Diagrams/anchorpoint.svg",
+    "Diagrams/Drawing 2025-07-12 19.44.21.excalidraw.md",
+    "Diagrams/Drawing 2025-07-12 19.40.04.excalidraw.md",
+    "README.md",
+    "Diagrams"
   ]
 }
